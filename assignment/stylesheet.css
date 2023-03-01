@@ -1,0 +1,15 @@
+header {
+    background-color: lightgray;
+}
+
+h2 {
+    background-color: #f06d06;
+    color: green;
+    text-align: center;
+}
+
+h3 {
+    background-color: salmon;
+    color: #662911;
+    text-align: center;
+}
